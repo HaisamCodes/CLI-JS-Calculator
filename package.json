@@ -1,0 +1,17 @@
+{
+  "name": "project00_calculator",
+  "description": "Develop a simple command line calculator using [TypeScipt](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/) and [Inquirer](https://www.npmjs.com/package/inquirer).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
